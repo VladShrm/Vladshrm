@@ -19,16 +19,14 @@ With over **4 years of commercial experience**, I specialize in building modern 
 ### 🔧 My Approach:
 I focus on writing **clean**, **maintainable code** that solves complex technical challenges. My goal is to create **efficient** and **reliable** systems that support business growth and provide value to users.
 
-### 🌱 I’m currently learning:
-- Advanced **cloud-native development** with AWS and Azure.
-
 ### 🌍 Let’s Connect:
 - 📧 [Email](mailto:sherem963@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/vladyslav-sheremeta-533823294/)
 
 ---
 
-![My Coding Animation](https://media.giphy.com/media/YTb3gG8JhjJlK/giphy.gif)
+![My Coding Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDloaGdlY3FhNW16MHV4M3F6cnNsM2o4dXlpMXJnNmdqZ2dtbDY5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
+
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VladShrm&show_icons=true&count_private=true&hide=prs&theme=tokyonight&hide_title=true)
 

@@ -31,6 +31,7 @@ I focus on writing **clean**, **maintainable code** that solves complex technica
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladShrm&langs_count=8&layout=compact&theme=tokyonight)
 
-![GitHub contributions](https://img.shields.io/github/commit-activity/y/VladShrm)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/VladShrm?label=commits&style=plastic)
 
-![GitHub contributions](https://img.shields.io/github/contributors/VladShrm?style=plastic)
+![GitHub contributors](https://img.shields.io/github/contributors/VladShrm?style=plastic)
+

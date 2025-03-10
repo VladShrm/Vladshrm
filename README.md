@@ -24,7 +24,7 @@ I focus on writing **clean**, **maintainable code** that solves complex technica
   
 ### 🌍 Let’s Connect:
 - 📧 [Email](mailto:sherem963@gmail.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/vladyslav-sheremeta](https://www.linkedin.com/in/vladyslav-sheremeta-533823294/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/vladyslav-sheremeta)
 
 ---
 

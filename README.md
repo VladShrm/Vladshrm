@@ -21,13 +21,17 @@ I focus on writing **clean**, **maintainable code** that solves complex technica
 
 ### 🌱 I’m currently learning:
 - Advanced **cloud-native development** with AWS and Azure.
-  
+
 ### 🌍 Let’s Connect:
 - 📧 [Email](mailto:sherem963@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/vladyslav-sheremeta-533823294/)
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VladShrm&show_icons=true&theme=radical)
+![My Coding Animation](https://media.giphy.com/media/YTb3gG8JhjJlK/giphy.gif)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladShrm&langs_count=10&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VladShrm&show_icons=true&count_private=true&hide=prs&theme=tokyonight&hide_title=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladShrm&langs_count=8&layout=compact&theme=tokyonight)
+
+![Profile views](https://komarev.com/ghpvc/?username=VladShrm)

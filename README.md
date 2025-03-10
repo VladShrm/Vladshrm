@@ -27,6 +27,6 @@ I focus on writing **clean**, **maintainable code** that solves complex technica
 
 ![My Coding Animation](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDloaGdlY3FhNW16MHV4M3F6cnNsM2o4dXlpMXJnNmdqZ2dtbDY5MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VladShrm&show_icons=true&count_private=true&hide=prs&theme=tokyonight&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VladShrm&show_icons=true&count_private=true&theme=tokyonight&hide_title=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladShrm&langs_count=8&layout=compact&theme=tokyonight)
